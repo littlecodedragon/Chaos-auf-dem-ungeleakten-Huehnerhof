@@ -4,13 +4,13 @@ Huhn gegen Fuchs. Kurzes Hof-Spiel für Windows.
 
 ## Download
 
-Neueste Version: [Releases](https://github.com/littlecodedragon/Chaos-auf-dem-Huehnerhof/releases/latest)
+Neueste Version: [Releases / Latest](https://github.com/littlecodedragon/Chaos-auf-dem-Huehnerhof/releases/latest)
 
-Zip entpacken, `ChaosAufDemHuehnerhof.exe` starten. Den `data_*`-Ordner nicht wegwerfen — gehört zum Spiel.
+Jeder Build bekommt einen eigenen Release. Zip entpacken, `ChaosAufDemHuehnerhof.exe` starten. Den `data_*`-Ordner nicht wegwerfen — gehört zum Spiel.
 
 ## Steuerung
 
-WASD oder Pfeiltasten. Leertaste / Enter startet die Runde.
+WASD oder Pfeiltasten. Leertaste / Enter startet die Runde. Escape zurück zum Menü.
 
 ## Twitch
 
